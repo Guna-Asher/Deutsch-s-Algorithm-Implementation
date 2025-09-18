@@ -132,11 +132,9 @@ Contributions are welcome! Please:
 3. Add tests for new functionality
 4. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 **Note**: This implementation is for educational purposes and demonstrates fundamental quantum computing concepts. For production use, consider using actual quantum hardware through IBM Quantum Experience.
+
 
