@@ -60,7 +60,7 @@ The quantum advantage comes from superposition and interference, allowing the al
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/deutsch-algorithm.git
+git clone https://github.com/Guna-Asher/deutsch-algorithm.git
 cd deutsch-algorithm
 ```
 
@@ -139,3 +139,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Note**: This implementation is for educational purposes and demonstrates fundamental quantum computing concepts. For production use, consider using actual quantum hardware through IBM Quantum Experience.
+
